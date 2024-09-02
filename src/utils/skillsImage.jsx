@@ -74,13 +74,27 @@ import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
 
 import canva from '../assets/svg/skills/canva.svg'
-
+import solidity from '../assets/svg/skills/solidity.svg'
+import nodejs from '../assets/svg/skills/nodejs.svg'
+import ethereum from '../assets/svg/skills/ethereum.svg'
+import hyperledger from '../assets/svg/skills/hyperledger.svg'
+import ipfs from '../assets/svg/skills/ipfs.svg'
 
 export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
     switch (skillID) {
         case 'gcp':
             return gcp;
+        case 'solidity':
+            return solidity;
+        case 'node':
+            return nodejs;
+        case 'ethereum':
+            return ethereum;
+        case 'hyperledger':
+            return hyperledger;
+        case 'ipfs':
+            return ipfs;
         case 'html':
             return html;
         case 'photoshop':

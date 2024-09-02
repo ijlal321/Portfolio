@@ -1,11 +1,11 @@
 export const blogData = [
     {
         id: 1,
-        title: 'SCRAPING BILLBOARD AND IMDB USING PYTHON SELENIUM',
-        description: 'Here we will use Selenium to navigate between web pages, and try to scrape data from them.',
-        date: 'Aug 7, 2020',
-        image: 'https://1.bp.blogspot.com/-6vZQoWcIZeo/Xvw5ZD5Y53I/AAAAAAAABgI/GH2b5OuMaXAKuigK4diBbeYDW6dD3qVvgCK4BGAsYHg/w400-h225/selenium.jpg',
-        url: 'https://hackzism.blogspot.com/2020/07/scraping-billboard-and-imdb-using.html'
+        title: 'How to know if a <select> Dropdown is open ? Solving a decade old problem through Logic 💪 step by step.',
+        description: 'An excellent example of problem solvign and founding your way in your stack of problems like a needle.',
+        date: 'Aug 21, 2024',
+        image: 'https://miro.medium.com/v2/resize:fit:720/format:webp/1*ticbzjMA9VLxMI-_BoiznQ.png',
+        url: 'https://medium.com/@ijlal.tanveer294/how-to-know-if-a-select-dropdown-is-open-555a304e7dda'
     },
     {
         id: 2,
